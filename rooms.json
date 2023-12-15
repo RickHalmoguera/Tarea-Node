@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "photos": [
+        "http://dummyimage.com/500x500.png/dddddd/000000",
+        "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+        "http://dummyimage.com/500x500.png/ff4444/ffffff"
+      ],
+      "type": "Single Bed",
+      "room_number": 1,
+      "description": "Habitación individual acogedora",
+      "offer": true,
+      "price": 100,
+      "discount": 10,
+      "cancellation": "Cancelación flexible",
+      "amenities": ["Air conditioner", "Breakfast", "High Speed WiFi"]
+    },
+    {
+      "id": 2,
+      "photos": [
+        "http://dummyimage.com/500x500.png/dddddd/000000",
+        "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+        "http://dummyimage.com/500x500.png/ff4444/ffffff"
+      ],
+      "type": "Double Bed",
+      "room_number": 2,
+      "description": "Habitación doble con vista panorámica",
+      "offer": false,
+      "price": 200,
+      "discount": 20,
+      "cancellation": "Política de cancelación estándar",
+      "amenities": ["Cleaning", "Grocery", "Shop Near"]
+    },
+    {
+      "id": 3,
+      "photos": [
+        "http://dummyimage.com/500x500.png/dddddd/000000",
+        "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+        "http://dummyimage.com/500x500.png/ff4444/ffffff"
+      ],
+      "type": "Double Superior",
+      "room_number": 3,
+      "description": "Habitación doble superior con balcón",
+      "offer": true,
+      "price": 300,
+      "discount": 30,
+      "cancellation": "Cancelación gratuita hasta 72 horas antes",
+      "amenities": ["High Speed WiFi", "Kitchen", "Shower"]
+    },
+    {
+      "id": 4,
+      "photos": [
+        "http://dummyimage.com/500x500.png/dddddd/000000",
+        "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+        "http://dummyimage.com/500x500.png/ff4444/ffffff"
+      ],
+      "type": "Suite",
+      "room_number": 4,
+      "description": "Suite de lujo con jacuzzi",
+      "offer": false,
+      "price": 400,
+      "discount": 10,
+      "cancellation": "Política de cancelación estricta",
+      "amenities": ["TV", "Air conditioner", "Shower"]
+    },
+    {
+      "id": 5,
+      "photos": [
+        "http://dummyimage.com/500x500.png/dddddd/000000",
+        "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+        "http://dummyimage.com/500x500.png/ff4444/ffffff"
+      ],
+      "type": "Single Bed",
+      "room_number": 5,
+      "description": "Habitación individual con escritorio",
+      "offer": true,
+      "price": 100,
+      "discount": 20,
+      "cancellation": "Cancelación flexible",
+      "amenities": ["Air conditioner", "Breakfast", "High Speed WiFi"]
+    },
+    {
+      "id": 6,
+      "photos": [
+        "http://dummyimage.com/500x500.png/dddddd/000000",
+        "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+        "http://dummyimage.com/500x500.png/ff4444/ffffff"
+      ],
+      "type": "Double Bed",
+      "room_number": 6,
+      "description": "Habitación doble con minibar",
+      "offer": false,
+      "price": 200,
+      "discount": 30,
+      "cancellation": "Política de cancelación estándar",
+      "amenities": ["Cleaning", "Grocery", "Smart Security"]
+    },
+    {
+      "id": 7,
+      "photos": [
+        "http://dummyimage.com/500x500.png/dddddd/000000",
+        "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+        "http://dummyimage.com/500x500.png/ff4444/ffffff"
+      ],
+      "type": "Double Superior",
+      "room_number": 7,
+      "description": "Habitación doble superior con terraza",
+      "offer": true,
+      "price": 300,
+      "discount": 10,
+      "cancellation": "Cancelación gratuita hasta 48 horas antes",
+      "amenities": ["High Speed WiFi", "Kitchen", "Towels"]
+    },
+    {
+      "id": 8,
+      "photos": [
+        "http://dummyimage.com/500x500.png/dddddd/000000",
+        "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+        "http://dummyimage.com/500x500.png/ff4444/ffffff"
+      ],
+      "type": "Suite",
+      "room_number": 8,
+      "description": "Suite con sala de estar",
+      "offer": false,
+      "price": 400,
+      "discount": 20,
+      "cancellation": "Política de cancelación flexible",
+      "amenities": ["TV", "Air conditioner", "Smart Security"]
+    },
+    {
+      "id": 9,
+      "photos": [
+        "http://dummyimage.com/500x500.png/dddddd/000000",
+        "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+        "http://dummyimage.com/500x500.png/ff4444/ffffff"
+      ],
+      "type": "Single Bed",
+      "room_number": 9,
+      "description": "Habitación individual con vistas al mar",
+      "offer": true,
+      "price": 100,
+      "discount": 30,
+      "cancellation": "Cancelación gratuita hasta 24 horas antes",
+      "amenities": ["Air conditioner", "Shower", "Towels"]
+    },
+    {
+      "id": 10,
+      "photos": [
+        "http://dummyimage.com/500x500.png/dddddd/000000",
+        "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+        "http://dummyimage.com/500x500.png/ff4444/ffffff"
+      ],
+      "type": "Double Bed",
+      "room_number": 10,
+      "description": "Habitación doble con balcón",
+      "offer": false,
+      "price": 200,
+      "discount": 10,
+      "cancellation": "Política de cancelación estricta",
+      "amenities": ["Cleaning", "Grocery", "Shop Near"]
+    }
+  ]
+  
